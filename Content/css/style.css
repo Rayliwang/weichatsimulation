@@ -357,6 +357,7 @@
     }
     .talk .footer img{
         vertical-align:middle;
+        width:8%;
     }
     .talk .footer input {
         vertical-align:bottom;
@@ -364,6 +365,8 @@
         border-top:none;
         border-left:none;
         border-right:none;
+        outline: none;
+        width:71.7%;
     }
         .talk .footer input[type="text"]:hover {
             border-top:none;
